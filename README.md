@@ -10,7 +10,7 @@ I've been learning code for +2 years, after switching careers. I started with ga
 *   🖥️  See my portfolio at [Saman's Website](http://www.samanmanesh.com)
 *   ✉️  You can contact me at [samansbm7@gmail.com](mailto:samansbm7@gmail.com)
 *   🧠  I'm learning ThreeJS
-*   🤝  I'm open to collaborating on intresting projects
+*   🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 <p align="left">
