@@ -1,8 +1,8 @@
-<h1 align="left">
+<h2 align="left">
 Hi, I’m Saman!
 </br>
- Full-Stack Developer & AI Enthusiast
-</h1>
+Full-Stack Developer & AI Enthusiast
+</h2>
 
 <!-- -------------------- -->   
 
