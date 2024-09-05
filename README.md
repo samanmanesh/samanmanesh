@@ -4,15 +4,14 @@ Hi, I’m Saman!
  Full-Stack Developer & AI Enthusiast
 </h1>
 
-<!-- -------------------- -->
+<!-- -------------------- -->   
 
 <p align="left">
 For more than 7 years, I’ve been fueled by a passion for coding that only keeps growing. My journey began with game development, transitioned to web development, and now, I’m diving deep into the world of AI — my latest and greatest fascination.</p>
  
-   📍  Based in Toronto <br/>
-   🔗  My portfolio is [samanmanesh.com](http://www.samanmanesh.com) <br/>
-   ✉️  Contact me at [samansbm7@gmail.com](mailto:samansbm7@gmail.com) <br/>
-   🤝🏻  I'm open to collaborating on interesting projects <br/>
+<br/>
+" I'm open to collaborating on interesting projects 🤝🏻 "
+   
 
 ### Socials
                   
