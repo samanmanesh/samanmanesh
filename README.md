@@ -11,11 +11,3 @@ For more than 7 years, I’ve been fueled by a passion for coding that only keep
  
 <br/>
 " I'm open to collaborating on interesting projects 🤝🏻 "
-   
-
-### Socials
-                  
-<p align="left"> <a href="https://www.github.com/Samanmanesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saman-manesh-softwaredeveloper/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
-
