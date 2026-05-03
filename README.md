@@ -1,5 +1,5 @@
 <h2 align="left">
-Hi, I’m Sam!  
+Hi, I’m Saman!  
 </br>  
 Software Developer & AI Enthusiast  
 </h2>  
